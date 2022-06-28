@@ -1,4 +1,4 @@
-# Article-Recommendation-
+# Article-Recommendation
 Article Recommendation to the student based on students knowledge/learning capacity
 ![image](https://user-images.githubusercontent.com/78382164/176204008-955d31eb-6967-40b5-b556-4800369440fe.png)
 
