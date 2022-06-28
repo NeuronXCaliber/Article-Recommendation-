@@ -43,5 +43,7 @@ If a student is very poor in knowledge then he/she must be provided by a very ea
 
 Combination of an optimized SVM model + Recurrent Neural Network model will help to overcome the problem and choose the best pathway to learn. 
 
-
-
+Input : three Pourquoi les programmeurs veulent des bureaux privÃ©s 911: Pourquoi les programmeurs veulent des bureaux privÃ©s: stackoverflow
+This is a 3 star rated article (not so advanced or not so bad). 
+Output : Article will be recommend to the student of 3 star as the students knowledge capacity is Moderate
+The article will be recommended to the moderate student ans his/her capacity is not so high. 
