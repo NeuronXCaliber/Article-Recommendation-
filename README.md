@@ -25,6 +25,7 @@ Students capacity can be clustered through few steps:
 Algorithms used : 
 An optimized Suppport Vector Machine algorithm has been used to cluster the student and judge the capacity of student. 
 ![image](https://user-images.githubusercontent.com/78382164/176206665-7f7b8c51-e63f-40cc-93d4-d30de3a098ed.png)
+
 Capacity od the student can be judged by best model accuracy by hyper parameter tuning of SVM model. 
 ![image](https://user-images.githubusercontent.com/78382164/176206985-d43b66e7-0cb3-4a5a-a4fc-cfc175392c43.png)
 
