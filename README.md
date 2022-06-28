@@ -33,4 +33,15 @@ Capacity od the student can be judged by best model accuracy by hyper parameter 
 Recommendation of article has been done by using Recurrent Neural Network algorithm. 
 ![image](https://user-images.githubusercontent.com/78382164/176207264-9b916ed4-ff1f-441d-8a53-a3e4d2024fc0.png)
 
+In this scenario, students choices are very higher than their expertise. They dont know whether they ill be able to learn that particular concept or not. 
+![image](https://user-images.githubusercontent.com/78382164/176213340-edc7ef1a-32b6-4c76-89e2-dc4859cd502c.png)
+
+By using this system students can be aware about their knowledge/capacity and a particular concept can be provided to the student based on his/her capacity. 
+Step by step learning, growing and increasing knowledge will be helpful for the student. 
+
+If a student is very poor in knowledge then he/she must be provided by a very easy article. So that he/she can learn that first then go for next one.
+
+Combination of an optimized SVM model + Recurrent Neural Network model will help to overcome the problem and choose the best pathway to learn. 
+
+
 
